@@ -1,5 +1,5 @@
 # Stacked LSTMS to forecast the opening price of the AMZN stock.
-
+  
 
 * ### The stock price data was pulled through the [tiingo API](https://www.tiingo.com/) in a dataframe format using the [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/) module.
 * ### A time step of 100 was used for training.
